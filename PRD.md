@@ -625,7 +625,7 @@ Dashboard menampilkan:
 | Tables | TanStack Table |
 | DOCX | docxtemplater + PizZip |
 | Date utilities | date-fns |
-| Icons | Lucide React |
+| Icons | hugeicons |
 | Deployment | Vercel |
 
 ## 6.2 Architecture
